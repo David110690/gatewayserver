@@ -1,6 +1,6 @@
 spring:
   application:
-    name: gatewayserver1
+    name: gatewayserver
   cloud:
     config:
       uri: http://localhost:8090
