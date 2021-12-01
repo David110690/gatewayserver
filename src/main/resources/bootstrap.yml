@@ -3,7 +3,7 @@ spring:
     name: gateway-server
   cloud:
     config:
-      enabled: true
+      enabled: false
       uri: http://localhost:8090
   profiles:
     active: dev
